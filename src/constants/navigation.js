@@ -1,0 +1,6 @@
+export const HOME_PAGE = '/home'
+export const PROFILE_PAGE = '/profile'
+export const LOGIN_PAGE = '/login'
+export const DETAIL_PAGE = '/post-detail'
+export const MANAGE_PAGE = '/manage'
+export const SETTING_PAGE = '/setting'
