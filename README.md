@@ -1,4 +1,4 @@
-# Chirashi-kun
+# Code base
 
 [https://chirashi-kun.vercel.app/]: https://chirashi-kun.vercel.app/
 
